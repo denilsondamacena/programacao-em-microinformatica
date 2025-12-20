@@ -1,5 +1,6 @@
 ## Lista IV
 
+
 ### Exercício 1 - Filtrar Primos
 >Crie uma função que receba uma lista de valores (que podem ser números, strings ou
 outros tipos) e retorne uma nova lista contendo apenas os números primos válidos. A
@@ -67,3 +68,4 @@ Requisitos técnicos:
 >d) Crie função para cálculos de cada faixa
 >e) Use while para simulações múltiplas
 > ```
+
