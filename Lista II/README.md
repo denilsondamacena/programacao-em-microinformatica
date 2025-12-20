@@ -1,5 +1,6 @@
 ## Lista II
 
+
 ### Exercício 1 - Sequência Personalizada
 >Crie uma função que gere uma sequência personalizada usando range com diferentes parâmetros e calcule estatísticas.
 
@@ -26,3 +27,4 @@
 
 ### Exercício 9 – Calendário
 >Crie um sistema de calendário que use range para gerar datas.
+
