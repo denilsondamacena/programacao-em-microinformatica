@@ -1,5 +1,6 @@
 ## Lista III
 
+
 **Observação: Utilize apenas as estruturas: if, else, elif, while, try, except, finally, manipulação de string, lista e
 tupla do Python**
 
@@ -39,3 +40,4 @@ tupla do Python**
 ### Exercício 12 - Gerenciamento Biblioteca
 >Crie um sistema de gerenciamento de biblioteca com busca avançada, empréstimos e
 controle de multas usando listas e tuplas.
+
