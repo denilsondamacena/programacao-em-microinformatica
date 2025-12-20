@@ -1,5 +1,6 @@
 ## Lista I
 
+
 ### Exercício 1 - Olá Mundo
 >Escreva um programa que exiba "Olá, Mundo!" na tela.
 
@@ -150,3 +151,4 @@
 
 ### Exercício 50 - Triângulo Possível
 >Escreva um programa que verifique se três lados podem formar um triângulo e classifique-o.
+
