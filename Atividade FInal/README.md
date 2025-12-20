@@ -1,5 +1,6 @@
 ## Atividade Final
 
+
 ### Exercício Final 
 
 >Desenvolva um sistema de gerenciamento de biblioteca digital que integre todos os conceitos fundamentais do Python:
@@ -22,3 +23,4 @@
 >l) Persistência de dados em arquivos
 >m) Interface interativa com menus paginados
 > ``` 
+
